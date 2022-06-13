@@ -1,0 +1,20 @@
+body{
+    background-color: red;
+}
+div{
+    background-color: palevioletred;
+}
+.btn{
+    background-color: green;
+}
+.table{
+    border-color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px 20px;
+    border-radius: 20px;
+    table-layout: auto;
+    
+}
+.row{
+    background-color: blue;
+}
